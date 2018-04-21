@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Everybody!
+Editing code is my hobby！I hope to learn more.
